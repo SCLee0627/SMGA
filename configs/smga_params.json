@@ -1,0 +1,11 @@
+{
+  "steps": 100,
+  "lr": 1.0,
+  "tau": 0.04,
+  "threshold": 0.3,
+  "t": 0.01,
+  "neighbor_samples": 4,
+  "neighbor_radius": 0.05,
+  "neighbor_beta": 0.5,
+  "gamma": 50.0
+}
